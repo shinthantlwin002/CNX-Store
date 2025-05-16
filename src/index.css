@@ -96,3 +96,11 @@
     font-variation-settings:
       "wdth" 100;
   }
+
+  /* react-slick carousel  */
+  .slick-slide > div {
+    margin: 0 20px;
+  }
+  .slick-list {
+    margin: 0 -10px;
+  }
